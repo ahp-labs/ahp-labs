@@ -4,23 +4,23 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6C63FF&center=true&vCenter=true&lines=Full-Stack+Developer;7+Years+Experience;Node.js+%26+React+Lover;Team+Lead+at+Ghesitila;Only+Impossible+is+Impossible" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6C63FF&center=true&vCenter=true&lines=Backend+Developer;7+Years+Experience;Node.js+%26+React+Lover;Only+Impossible+is+Impossible" />
 </p>
 
 ---
 
 ## ✨ درباره من  
-👨‍💻 توسعه‌دهنده فول استک با بیش از **۷ سال تجربه در دنیای برنامه‌نویسی**  
+👨‍💻 توسعه‌دهنده بک اند با بیش از **۷ سال تجربه در دنیای برنامه‌نویسی**  
 
 
-💼 هم‌اکنون به عنوان **سرپرست تیم در شرکت قسطیلا** فعالیت می‌کنم.  
+💼 هم‌اکنون به عنوان **بک اند ارشد در شرکت بانیان تولیدا** فعالیت می‌کنم.  
 
 ---
 
 ## 🧩 مهارت‌ها و ابزارها  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,express,nginx,python,django,mysql,git,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,django,javascript,python,html,css,tailwind,nginx,mysql,prisma,redis,git,postman,linux,ubuntu&theme=dark" />
 </p>
 
 ---
